@@ -1,0 +1,18 @@
+#body {
+    background-color: #f0faef;
+    
+}
+
+#header {
+    background-color: #130769;
+    color: white;
+}
+
+
+#footer {
+    background-color: #130769;
+}
+
+main div>button {
+    margin: 4px;
+}
